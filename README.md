@@ -2,7 +2,7 @@
 
 <b>Tujuan : </b>
 <ul>
-  <li>Memahami Fungsi Regex dan Search.</li>
+  <li>Memahami Fungsi Search.</li>
 </ul>
 
 <b>Output in terminal : </b>
