@@ -1,4 +1,4 @@
-# tugas_28_javascript
+# Tugas 28 Javascript
 
 <b>Tujuan : </b>
 <ul>
